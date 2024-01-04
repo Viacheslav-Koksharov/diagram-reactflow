@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/diagram-reactflow/static/css/main.8b8fc264.css",
+    "main.js": "/diagram-reactflow/static/js/main.dadffae2.js",
+    "index.html": "/diagram-reactflow/index.html",
+    "main.8b8fc264.css.map": "/diagram-reactflow/static/css/main.8b8fc264.css.map",
+    "main.dadffae2.js.map": "/diagram-reactflow/static/js/main.dadffae2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8b8fc264.css",
+    "static/js/main.dadffae2.js"
+  ]
+}
